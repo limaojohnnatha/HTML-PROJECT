@@ -8,7 +8,7 @@ O que aprendi:
 Estrutura de um documento HTML
 Aprendi que toda página HTML começa com a declaração <!DOCTYPE html> e é organizada em duas seções principais:
 
-<head>: onde colocamos informações sobre a página, como título (<title>) e metadados (<meta>).
+< head >: onde colocamos informações sobre a página, como título (<title>) e metadados (<meta>).
 
 <body>: onde colocamos o conteúdo visível para o usuário, como textos, imagens e links.
 
