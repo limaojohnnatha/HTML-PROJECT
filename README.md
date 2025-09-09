@@ -8,19 +8,17 @@ O que aprendi:
 Estrutura de um documento HTML
 Aprendi que toda página HTML começa com a declaração <!DOCTYPE html> e é organizada em duas seções principais:
 
-< head >: onde colocamos informações sobre a página, como título (<title>) e metadados (<meta>).
+head: onde colocamos informações sobre a página, como título (<title>) e metadados (<meta>).
 
-<body>: onde colocamos o conteúdo visível para o usuário, como textos, imagens e links.
+body: onde colocamos o conteúdo visível para o usuário, como textos, imagens e links.
 
 Elementos básicos de HTML
 
-<h1>: usado para títulos principais.
+h1: usado para títulos principais.
 
-<p>: usado para parágrafos de texto.
+p: usado para parágrafos de texto.
 
-<meta charset="UTF-8">: define a codificação de caracteres, garantindo que acentos e símbolos apareçam corretamente.
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: garante que a página seja responsiva em dispositivos móveis.
+meta charset="UTF-8": define a codificação de caracteres, garantindo que acentos e símbolos apareçam corretamente.
 
 Como abrir e visualizar a página
 Aprendi que arquivos HTML podem ser abertos diretamente em qualquer navegador moderno, permitindo visualizar o conteúdo sem a necessidade de nenhum servidor.
